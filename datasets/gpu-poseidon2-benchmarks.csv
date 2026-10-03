@@ -1,0 +1,12 @@
+gpu,algo,hashrate_mhs,power_w,gh_per_w,source,date
+RTX 5090,QPoW-Poseidon2,1310,525,0.00250,community-avg,2026-10-03
+RTX 5090,QPoW-Poseidon2(cuda-1.0.8),1200,525,0.00229,quantusminer,2026-10-03
+RTX 4090,QPoW-Poseidon2,1150,380,0.00303,community-avg,2026-10-03
+RTX 5080,QPoW-Poseidon2,649,360,0.00180,community-avg,2026-10-03
+RTX 4070TiS,QPoW-Poseidon2,500,285,0.00175,community-avg,2026-10-03
+RTX 3090Ti,QPoW-Poseidon2,473,450,0.00105,community-avg,2026-10-03
+RTX 3090,QPoW-Poseidon2,500,350,0.00143,kryptex-device,2026-10-03
+RTX 4070,QPoW-Poseidon2,392,200,0.00196,community-avg,2026-10-03
+RTX 3070,QPoW-Poseidon2,270,220,0.00123,community-avg,2026-10-03
+RX 7900XTX,QPoW-Poseidon2(rocm-0.1.0),175,355,0.00049,quantusminer,2026-10-03
+Ryzen 7950X3D,QPoW-Poseidon2(cpu),20,170,0.00012,community-avg,2026-10-03
