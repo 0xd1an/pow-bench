@@ -1,0 +1,2 @@
+machine,cpu,os,hash_per_s_single_thread,date,note
+VPS-ARM64,ARMv8,Ubuntu-22.04,2063156,2026-10-03,measured-python-sha3_256-10s-loop
